@@ -3,8 +3,8 @@
 - Two different programs, one made entirely out of unix commands (bash) and the other written in C (with use of structs and linked-lists) to play bingo on terminal as the final project of CPS 393 to demonstrate in-depth knowledge of the course material.
 - Academic Course: CPS 393 | Grade: 100%
 ### Contents:
-* 🎮  [Game Play]()
-* 🚨  [Exit Statuses]()
+* 🎮  [Game Play](https://github.com/Ghazalmir/project-descriptions/blob/main/READMEs/Lingo.md#-game-play )
+* 🚨  [Exit Statuses](https://github.com/Ghazalmir/project-descriptions/blob/main/READMEs/Lingo.md#-exit-statuses)
 
 ## 🎮 Game Play:
 User runs LINGO with a card (a 5x5 matrix of integers), and the program calls random numbers one-by-one (triggered by any key, except “q” which quits the program). Each time a number is called, if that number appears on the user's card, it is "marked". User wins when a row, or column, or all 4 corners, becomes marked.
