@@ -2,8 +2,8 @@
 The Flight Reservation System is a command-line program that models flights departing from the Pearson Airport during a single day. Initially done as the final project for a university course (CPS 209) and expanded over time, this program uses OOP, collections, file I/O and exceptions, objects and classes, inheritance, and interfaces in Java. 
 
 ### Contents:
-* 📋  [Commands List]()
-* 🖥  [Program Demo]()
+* 📋  [Commands List](https://github.com/Ghazalmir/project-descriptions/blob/main/READMEs/Flight-Reservation-System.md#-commands-list)
+* 🖥  [Program Demo](https://github.com/Ghazalmir/project-descriptions/blob/main/READMEs/Flight-Reservation-System.md#--program-demo)
 
 ## 📋 Commands List: 
 | Command  | Format (Not Case-Sensitive) | Usage 
