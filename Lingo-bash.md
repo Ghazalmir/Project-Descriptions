@@ -1,8 +1,15 @@
-# LINGO 
-A bash program to play a game called LINGO (much like BINGO), done as an assignment for CPS393 to demonstrate understanding of the course material.
+# LINGO (C - Shell Scripting) | Fall 2021
+- Two different programs, one made entirely out of unix commands (bash) and the other written in C (with use of structs and linked-lists) to play bingo on terminal as the final project of CPS 393 to demonstrate in-depth knowledge of the course material.
+- Academic Course: CPS 393 | Grade: 100%
 
 ## 🎮 Basic Game Play:
 User runs LINGO with a card (a 5x5 matrix of integers), and the program calls random numbers one-by-one (triggered by any key, except “q” which quits the program). Each time a number is called, if that number appears on the user's card, it is "marked". User wins when a row, or column, or all 4 corners, becomes marked.
+
+Demo of game play:
+
+https://user-images.githubusercontent.com/72219373/147281156-c543ef63-3900-43a9-aded-5f387af40956.mp4
+
+**Note**: the above videos may not show on some browsers. You can watch it [here](https://user-images.githubusercontent.com/72219373/147281156-c543ef63-3900-43a9-aded-5f387af40956.mp4).
 
 ### LINGO card structure:
 A perfectly formatted LINGO card a seed number (all integers) at the top and then 5 columns of 5 integers, in which the first column contains 5 unique numbers 0-15, second in 16-30, 3rd in 31-45 (with the middle number as “00” and already marked), 4th in 46-60, and the final column in range of 61-75. 
