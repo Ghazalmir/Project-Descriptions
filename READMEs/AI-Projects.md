@@ -3,8 +3,8 @@
 - Prolog programs solving five important AI problems and techniques, including knowledge representation and reasoning, constraints satisfaction, search, natural language understanding, and planning.
 
 ### Contents:
-*  [List of Programs](https://github.com/Ghazalmir/project-descriptions/blob/main/READMEs/AI-Projects.md#-list-of-programs)
-*  [NLP Demo](https://github.com/Ghazalmir/project-descriptions/blob/main/READMEs/AI-Projects.md#-nlp-demo)
+*  [List of Programs](https://github.com/Ghazalmir/project-descriptions/blob/main/READMEs/AI-Projects.md#list-of-programs)
+*  [NLP Demo](https://github.com/Ghazalmir/project-descriptions/blob/main/READMEs/AI-Projects.md#nlp-demo)
 
 ## List of Programs:
 1. Knowledge Bases and Queries: Several knowledge bases and queries written in prolog. 
